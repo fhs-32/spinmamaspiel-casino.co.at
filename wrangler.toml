@@ -1,0 +1,11 @@
+name = "spinmamaspiel-casino-co-at"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinmamaspiel-casino.co.at"
+HMAC_KEY = "722dbaa00c4112927c7f642d0e9ac71cb2119f6c24bbeeecd2cf4be56aa793a1"
+COOKIE_NAME = "5vb"
+PLAY_PATH = "try"
+BUTTON_ID = "p30f1f02848558c7b6c9bcd99265e42f4"
+GATE_SALT = "84841227d613137c"
